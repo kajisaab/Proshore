@@ -1,3 +1,19 @@
+# Technologies used in this project.
+
+## Redux :
+
+    redux is used in this project for the state management reduce props drilling and for the api call where thunk is being used as a middleware.
+
+## TypeScript :
+
+    typscript is used maily for the type annotation and reduce the risk of crash.
+
+## React router v6 :
+
+    react router v6 is used as the primary routing for this project.
+
+# Layering of pages:
+
 ## First page
 
 You can see the list of the items on the first page which is basically the list of the users with their image name and the type after clicking any item it will redirect to the user specific repo.
